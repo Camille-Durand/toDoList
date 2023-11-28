@@ -1,2 +1,2 @@
 # toDoList
-Exercide CDA
+Exercice CDA
