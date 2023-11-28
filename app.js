@@ -13,4 +13,6 @@ function ajouterTask() {
     task.textContent = leInput.value;
     // Ajout de la task dans la liste
     laList.append(task);
+    // Clean la barre d'input
+    leInput.value = "";
 }
